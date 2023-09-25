@@ -15,3 +15,7 @@ Oils provide a smooth, blendable texture that mimics the seamless gradients achi
 ### Zen-Like Painting Experience
 
 The tactile nature of working with oils and the slower pace required can turn your painting sessions into a meditative, zen-like experience. It's not just about the end result; it's about enjoying the journey.
+
+# Table of Contents
+
+- [Oils and Mediums](oils-and-mediums.md)
