@@ -1,4 +1,4 @@
-# Oil Paints and Mediums
+# Oil Paints, Mediums and Thinners
 
 Oil paint is primarily composed of two main ingredients: drying oil and pigment. Drying oils, such as linseed oil, serve as the binder that holds the pigment particles together and adheres them to the painting surface. The pigments provide the color and can be made from various materials like minerals, synthetic compounds, or organic substances.
 
@@ -10,10 +10,10 @@ Drying oils in oil paint act as binders and undergo an oxidative process when ex
 
 In high-level terms, oxidation is a chemical process where the paint reacts with oxygen in the air to harden. Evaporation, on the other hand, is a physical process where the water or solvent in the paint simply evaporates, leaving the pigment and binder behind. 
 
-#### Speeding Up Processes
+### Accelerating Drying Times
 
-- **Oxidation**: To speed up oxidation in oil paints, you might use a medium that contains driers or alkyd resins, which act as catalysts to accelerate the hardening process.  
-- **Evaporation**: In the case of acrylics, miniature painters often use a hair dryer to speed up the evaporation of the water or solvent, thus quickening the drying time.
+- **Oli Paints:** To expedite the drying of oil paints, you can use mediums that incorporate driers (e.g. [Langridge Cobalt Driers](https://langridgecolours.com/cobalt-driers/)) or alkyd mediums (e.g. [W&N Liquin](https://www.winsornewton.com/uk/masterclass/exploring-liquin-mediums/)). These additions work to quicken the hardening of the paint. Thinning the paint can also help, as the thinner evaporates, speeding up the process. A hair dryer can be used to further accelerate the evaporation of thinner.
+- **Acrylics:** For acrylics, employing a hair dryer is a straightforward method to fast-track drying by promoting faster evaporation of water or solvents.
 
 ### Types of Drying Oils
 
@@ -48,6 +48,29 @@ Driers are substances, usually metal-based compounds, added to oil paint to acce
 Cobalt siccative is a specific type of drier that is highly effective in accelerating the drying process of oil paints. It is often used when a rapid drying time is desired. Cobalt siccative is usually available in liquid form and should be used sparingly, as excessive use can lead to problems like cracking or brittleness in the paint film.
 While they are effective, it's crucial to exercise caution when using them due to their hazardous properties.
 
+### Others
+
+There are other driers out there, but the majority of them are either highly toxic or prone to darkening the paint so won't be detailed in this guide.
+
+
 ## Thinners
 
-To follow...
+Thinners are used in oil painting to dilute paints, create washes, and clean brushes. They vary in composition and impact on health and the environment. Understanding the differences between them can help artists choose the right thinner for their needs while ensuring safety and effectiveness in their work.
+For detailed information and safety tips regarding these solvents, refer to the Jackson's Art Blog post on solvent safety: [Solvent Safety Guide: Taking Care with Oil Paint Solvents](https://www.jacksonsart.com/blog/2018/12/14/solvent-safety-guide-taking-care-with-oil-paint-solvents/).
+
+
+### White Spirit
+
+A petroleum distillate available in different types, including low-odour versions. Ideal for thinning oil paints and cleaning brushes, artist-grade white spirit is purer and less odorous than household versions.
+This is the recommended thinner for painting miniatures with oils.
+
+
+### Turpentine
+
+Derived from pine tree resin, turpentine is valued for its strong solvent properties. Artist quality turpentine, especially triple-distilled, is preferred for its purity and fast drying qualities.
+
+
+### Citrus and Plant-Based Solvents
+Eco-friendly alternatives with a pleasant citrus scent. They are effective in diluting natural resins and cleaning up, though their characteristics and uses vary.
+
+
